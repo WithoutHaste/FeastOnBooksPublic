@@ -1,2 +1,3 @@
-# FeastOnBooksPublic
-Public access to the Feast on Books project. Report bugs. Make suggestions.
+# Feast On Books  - Public Access
+
+You can post bug reports, make suggestions, and join discussions about Feast On Books.
